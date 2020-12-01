@@ -15,7 +15,7 @@ Assumption that there is at least one Interface configured in FortiGate.
 
 4.  Click **Apply**.
 
-![image](media\media\image1.png){width="6.5in" height="4.259027777777778in"}
+![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image1.png){width="6.5in" height="4.259027777777778in"}
 
 ## Configure ICAP Security Profile
 
@@ -43,7 +43,7 @@ Assumption that there is at least one Interface configured in FortiGate.
 
 8.  Press **OK**.
 
-![image](media\media\image2.png){width="6.5in" height="3.2715277777777776in"}
+![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image2.png){width="6.5in" height="3.2715277777777776in"}
 
 ## Upload HTTPS certificate
 
@@ -67,7 +67,7 @@ Authorities to your computer.
 
 5.  Provide **Password**.
 
-> ![image](media\media\image3.png){width="4.990573053368329in"
+> ![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image3.png){width="4.990573053368329in"
 > height="2.2271227034120735in"}
 
 ### Import certificate to Trusted Root Certification Authorities (Windows OS)
@@ -106,7 +106,7 @@ If you use FortiGate CA import CA cartyficate not website certificate.
 
 14. Provide **Password**.
 
-![image](media\media\image4.png){width="6.5in" height="3.3958333333333335in"}
+![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image4.png){width="6.5in" height="3.3958333333333335in"}
 
 ## Create Virtual Interface on existing interface port
 
@@ -128,7 +128,7 @@ You can also use existing IP attached to interface port.
 
 7.  Click **OK**.
 
-![image](media\media\image5.png){width="6.454110892388451in"
+![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image5.png){width="6.454110892388451in"
 height="4.881489501312336in"}
 
 ## Create Firewall Policy
@@ -166,12 +166,12 @@ height="4.881489501312336in"}
 
         iv. Press **OK**.
 
-> ![image](media\media\image6.png){width="5.5814424759405075in"
+> ![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image6.png){width="5.5814424759405075in"
 > height="3.999730971128609in"}
 
 j.  Press **OK**.
 
-![image](media\media\image7.png){width="6.5in" height="5.874305555555556in"}
+![image](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/image7.png){width="6.5in" height="5.874305555555556in"}
 
 ## Configure DNS or hosts file to point to Virtual IP (Windows OS)
 

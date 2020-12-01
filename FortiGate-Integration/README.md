@@ -5,6 +5,8 @@ v6.4.3 build1778 (GA), but should work on any 6.x build.
 
 Assumption that there is at least one Interface configured in FortiGate.
 
+[![Watch the video]](https://raw.githubusercontent.com/MariuszFerdyn/gp-fortinet-website/main/FortiGate-Integration/media/media/FortiGate_as_a_Reverse_Proxy.mp4)
+
 ## Enable ICAP feature
 
 1.  Login to the Forigate.
